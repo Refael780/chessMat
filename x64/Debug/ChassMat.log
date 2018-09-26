@@ -1,0 +1,12 @@
+﻿  Board.cpp
+c:\users\חורי\source\repos\chassmat\chassmat\board.cpp(21): warning C4101: 'n': unreferenced local variable
+c:\users\חורי\source\repos\chassmat\chassmat\board.cpp(181): warning C4101: 'i': unreferenced local variable
+c:\users\חורי\source\repos\chassmat\chassmat\board.cpp(228): warning C4101: 'tempI': unreferenced local variable
+c:\users\חורי\source\repos\chassmat\chassmat\board.cpp(228): warning C4101: 'i': unreferenced local variable
+c:\users\חורי\source\repos\chassmat\chassmat\board.cpp(228): warning C4101: 'tempDst': unreferenced local variable
+c:\users\חורי\source\repos\chassmat\chassmat\board.cpp(471): warning C4101: 'tempSign': unreferenced local variable
+c:\users\חורי\source\repos\chassmat\chassmat\board.cpp(470): warning C4101: 'tempI': unreferenced local variable
+c:\users\חורי\source\repos\chassmat\chassmat\board.cpp(470): warning C4101: 'tempDst': unreferenced local variable
+c:\users\חורי\source\repos\chassmat\chassmat\board.cpp(287): warning C4715: 'Board::isFreeWay': not all control paths return a value
+c:\users\חורי\source\repos\chassmat\chassmat\board.cpp(447): warning C4715: 'Board::isEatable': not all control paths return a value
+  ChassMat.vcxproj -> C:\Users\חורי\source\repos\ChassMat\x64\Debug\ChassMat.exe

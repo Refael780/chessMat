@@ -1,0 +1,5 @@
+﻿  Manager.cpp
+  Source.cpp
+c:\users\חורי\source\repos\chassmat\chassmat\source.cpp(10): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Generating Code...
+  ChassMat.vcxproj -> C:\Users\חורי\source\repos\ChassMat\Debug\ChassMat.exe
